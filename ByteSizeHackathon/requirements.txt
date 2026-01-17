@@ -1,0 +1,8 @@
+streamlit
+openai-whisper
+opencv-python
+moviepy==1.0.3
+google-genai
+librosa
+numpy
+imageio-ffmpeg
